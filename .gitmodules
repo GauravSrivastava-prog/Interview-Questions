@@ -1,0 +1,3 @@
+[submodule "Patterns"]
+	path = Patterns
+	url = https://github.com/GauravSrivastava-prog/Patterns.git
